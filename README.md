@@ -27,7 +27,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [VueJs](https://vuejs.org/)
 - [Typescript](https://www.typescriptlang.org/)
-- [Boostrap](https://getbootstrap.com/)
+- [Bootstrap](https://getbootstrap.com/)
 - [BootsWatch](https://www.bootstrapcdn.com/bootswatch/)
 - [Flask](https://flask.palletsprojects.com/en/2.0.x/)
 - [MongoDB](https://www.mongodb.com/)
